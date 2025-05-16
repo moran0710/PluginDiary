@@ -4,6 +4,20 @@
 
 ---
 
+## 重新搭建信息
+
+*此处“我”指代重新搭建本页面的这位玩家*
+
+这个站点**不是**RarityEG's Plugin Dev Tutorial的[原始仓库](https://github.com/Andy-K-Sparklight/PluginDiary)，由于在Cloudflare Pages上的原始页面已挂，为了方便各位阅读，我fork了此仓库，并用Github Pages重新搭建
+
+在此感谢原作者[ThatRarityEG](https://github.com/Andy-K-Sparklight)对Minecraft Bukkit开发社区的贡献
+
+由于ThatRarityEG已经退出了Bukkit开发社区，除了本处重新搭建说明，我**不会**对原文档进行任何修改或修正，部分内容可能过时，需要你自行判断是否可用
+
+另外，推荐想使用Kotlin编写Bukkit插件的玩家，或者希望看到更加现代的Bukkit开发教程的玩家，参阅[本文档的社区续作《插件设计与编程》](https://bpd.skjsjhb.moe/)
+
+就说那么多，欢迎各位加入Bukkit开发社区，我们开始吧！
+
 ## 编写本教程的目的
 
 笔者一开始编写插件是看 MCBBS 中的早期教程，然而那时候的教程无一例外使用的都是 Eclipse。对于笔者而言，曾经用 Eclipse 写 Mod 的痛苦还记忆犹新，因此笔者采用了 IDEA 进行开发。后来笔者又阅读了几份较新的教程，但发现有些部分它们并没有涵盖到（大致从本教程的第 4 章开始）。
@@ -72,6 +86,4 @@ Spigot 服务端分发/下载服务是由 [GetBukkit 组织](https://getbukkit.o
 - [Hanbing‘s Blog](https://hanbings.github.io/2020/08/17/%E7%A5%9E%E5%A5%87%E7%9A%84Bukkit%E7%AC%94%E8%AE%B0-%E6%8F%92%E4%BB%B6%E5%AF%B9%E5%85%B6%E4%BB%96%E6%8F%92%E4%BB%B6%E7%9A%84%E8%BD%AF%E4%BE%9D%E8%B5%96/)，由于没有任何版权声明，我们仅以学习目的引用少量内容，且均注明了出处。
 - [中文 Minecraft Wiki 镜像](https://wiki.biligame.com/mc/Minecraft_Wiki)，由于要求相同方式共享，与我们的许可不兼容，因此仅链接到本站而不进行任何引用。
 - [GNU 官方站点](https://www.gnu.org)，该站点使用 [CC-BY-ND 4.0 知识共享许可证](https://creativecommons.org/licenses/by-nd/4.0/) 授权。
-
-
 
